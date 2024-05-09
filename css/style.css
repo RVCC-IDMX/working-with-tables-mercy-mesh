@@ -1,0 +1,20 @@
+body {
+ text-align: center;
+    background-color: lightsteelblue;
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15pt;
+    
+}
+h2 {
+    font-size: 14pt;}
+    .table-container{
+        align-items: center;
+    background-color: whitesmoke;
+    color: blue;
+    text-align: center;
+    }
+    #th{
+        color: blueviolet;
+        background-color: azure;
+    }
